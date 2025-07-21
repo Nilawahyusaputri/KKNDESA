@@ -1,1 +1,7 @@
 streamlit>=1.26.0
+pandas
+joblib
+scikit-learn
+openpyxl
+streamlit-option-menu
+xlsxwriter
